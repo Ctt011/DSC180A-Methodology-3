@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-Camille Tran
-ctt011@ucsd.edu
+Camille Tran and Mihir Joshi
+
